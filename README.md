@@ -1,1 +1,0 @@
-# Nyaya-Health-Nepal

@@ -35,4 +35,4 @@ def solution4():
   except Exception as error:
     print(error)
     
-solution4()
+print(solution4())
